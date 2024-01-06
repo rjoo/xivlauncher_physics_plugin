@@ -1,4 +1,4 @@
-{
+[{
   "Author": "Kirrana",
   "Name": "High FPS Physics Fix",
   "Punchline": "Reduces the refresh rate of movement physics, \"fixing\" it at high fps.",
@@ -11,4 +11,4 @@
     "jank",
     "graphics"
   ]
-}
+}]
